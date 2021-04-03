@@ -1,4 +1,4 @@
-# springboot-tutorial
+# springboot-practice
 
 # What I've learned
 * Spring Boot Framework basics
